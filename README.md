@@ -1,5 +1,6 @@
 # aosp-m20lte repos
 - Android 11 AOSP based tree for Samsung Galaxy M20 (m20lte)
+- Thanks to Samar Vispute (SamarV-121) for the base trees
 
 # samsung sepolicy 
 - git clone https://github.com/aosp-m20lte/android_device_samsung_slsi_sepolicy device/samsung_slsi/sepolicy
