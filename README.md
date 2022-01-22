@@ -1,6 +1,6 @@
 # aosp-m20lte repos
+- AOSP based tree for Samsung Galaxy M20 (m20lte)
 
-clone these repo below 
 # samsung sepolicy 
 - git clone https://github.com/aosp-m20lte/android_device_samsung_slsi_sepolicy device/samsung_slsi/sepolicy
 # samsung hardware
