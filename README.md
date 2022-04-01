@@ -1,4 +1,4 @@
-# aosp-m20lte repos
+# samsung-aosp-universal7904 repos
 - Android 11 AOSP based tree for Samsung Galaxy M20/M30 (m20lte/m30lte)
 - Thanks to Samar Vispute (SamarV-121) for the base trees
 
